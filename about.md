@@ -1,45 +1,12 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Ana Carolina Dias
 ---
 
-A simple and elegant theme for Jekyll and GitHub Pages.
+![](assets/img/ana.jpg)
 
-### Features:
-* Mobile-first design ensures this theme performs fastest on mobile while scaling elegantly to desktop-size screens.
-* Designed for blogs and sites heavy on written content, with bold typography styles, homepage summaries, and previous/next snippets.
-* Supports a wide range of HTML elements and markdown.
-* Flexible styles that can be reused for customization without adding additional CSS.
-* Dynamically generated navigation links. See docs below for adding pages with specific post category for-loops.
+Atuo como pesquisadora multidisciplinar e ativista em Tecnologia Responsável e Governança da Internet desde setembro de 2023, com participação no [C-PARTES](https://instagram.com/coletivo_partes) e no [LAPIN](https://lapin.org.br). Fui bolsista [Youth do CGI.br](https://forumdainternet.cgi.br/pt-BR/youth) em 2020 e 2023, e aluna do [curso intensivo da EGI.br](https://egi.nic.br/) em 2024. Minha pesquisa foca em Internet, IA, tecnovigilância e governança de dados, utilizando minha formação em Ciência da Computação para apoiar a redação de políticas públicas. 
 
-## Themes
-This theme comes in two color variations. The default is set to the `light` theme. To change the theme color, add `theme_color:` to your `config.yml` file with the color you wish to use. Example: `theme_color: dark`.
+Em 2024, estou pesquisadora na [Cátedra Oscar Sala](http://www.iea.usp.br/pesquisa/catedras-e-convenios/catedra-oscar-sala/titular-catedra/virgilio-almeida/projeto-ia-responsavel) da USP e no [Center for AI and Digital Policy](https://www.caidp.org/global-academic-network/ai-policy-clinic/), onde estudo frameworks de políticas de IA e proponho melhorias para documentos locais. [Saiba mais...](https://www.linkedin.com/in/linasdias/)
 
-<!-- | Config setting | Thumbnail |
-| --- | --- |
-| `theme_color: black` | <img width="330" alt="black" src="url"> |
-| `theme_color: red` | <img width="330" alt="red" src="url"> | -->
-
-
-## Installation
-
-Add this line to your Jekyll site's Gemfile:
-
-```ruby
-gem "jekyll-athena"
-```
-
-And add this line to your Jekyll site `config.yml`:
-
-```yaml
-theme: jekyll-athena
-```
-
-And then execute:
-
-    $ bundle
-
-Or install it yourself as:
-
-    $ gem install jekyll-athena
+Fora do âmbito profissional, gosto de yoga, meditação, [gatos](https://instagram.com/sleepycatlua) e bebidas funcionais. Também vou postar sobre isso aqui.
