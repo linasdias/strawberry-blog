@@ -3,6 +3,7 @@
 source "https://rubygems.org"
 
 gem "kramdown-parser-gfm"
+gem "no-style-please", git: "https://github.com/riggraz/no-style-please"
 
 
 gemspec
