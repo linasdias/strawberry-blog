@@ -132,3 +132,29 @@ img {
   display: block;
   margin: 0 auto;
 }
+
+footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: transparent; /* Optional: Background color */
+  padding: 20px; /* Optional: Padding for footer */
+}
+
+.social-links {
+  list-style: none; /* Remove list styling */
+  padding: 0;
+  margin: 0;
+  display: flex;
+  gap: 0.9375em; /* Space between icons, 15px = 0.9375em */
+}
+
+.social-links a {
+  color: white; /* White icon color */
+  font-size: 1.5em; /* Icon size, 24px = 1.5em */
+  text-decoration: none; /* Remove underline */
+}
+
+.social-links a:hover {
+  color: darkred; /* Light color on hover */
+}

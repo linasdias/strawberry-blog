@@ -24,3 +24,25 @@ sass:
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
+  - jekyll-multiple-languages-plugin
+
+languages:
+  - pt
+  - en
+
+default_lang: pt
+
+exclude_from_localization:
+  - 'assets/'
+  - 'images/'
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      lang: "pt"
+
+  - scope:
+      path: "en"
+    values:
+      lang: "en"

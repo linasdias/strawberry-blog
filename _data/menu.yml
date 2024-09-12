@@ -7,19 +7,24 @@ entries:
     url: about
 
   - title: contato
-    url: "https://linktr.ee/linasdias"
+    url: "mailto:ana.carolina@lapin.org.br"
 
   - title: newsletter ⋆౨ৎ˚⟡˖ ࣪
     url: feed.xml
       
-  - title: "posts recentes!"
-    post_list:
-      limit: 5
-      show_more: true
-      show_more_text: Ver arquivo...
-      show_more_url: archive.html
+  - title: "artigos mais recentes!"
+    entries:
+      - title: "[LAPIN] resenha sobre unmasking ai (joy buolamwini)"
+        url: "https://lapin.org.br/2024/02/23/o-que-unmasking-ai-nos-ensina-sobre-nossa-reacao-a-sistemas-falhos-de-reconhecimento-facial/"
+      - title: "[LinkedIn] fib13 e gi no brasil em 2023"
+        url: "https://www.linkedin.com/pulse/experi%25C3%25AAncia-fib13-e-governan%25C3%25A7a-da-internet-brasil-em-2023-sousa-dias/?trackingId=pXg5GHD9RYmtcrue3d%2BrPg%3D%3D"
+
 
   - title: idiomas
     entries:
       - title: English
         url: en
+#      - title: Français
+#        url: fr
+#      - title: Español
+#        url: es
