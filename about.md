@@ -1,13 +1,11 @@
 ---
 layout: page
-title: Ana Carolina Dias
-lang: pt
+title: Your Name
 ---
 
-![](assets/img/ana.jpg)
+![](https://via.placeholder.com/800x800)
 
-Atuo como pesquisadora multidisciplinar e ativista em Tecnologia Responsável e Governança da Internet desde setembro de 2023, com participação no [C-PARTES](https://instagram.com/coletivo_partes) e no [LAPIN](https://lapin.org.br). Fui bolsista [Youth do CGI.br](https://forumdainternet.cgi.br/pt-BR/youth) em 2020 e 2023, e aluna do [curso intensivo da EGI.br](https://egi.nic.br/) em 2024. Minha pesquisa foca em Internet, IA, tecnovigilância e governança de dados, utilizando minha formação em Ciência da Computação para apoiar a redação de políticas públicas. 
 
-Em 2024, estou pesquisadora na [Cátedra Oscar Sala](http://www.iea.usp.br/pesquisa/catedras-e-convenios/catedra-oscar-sala/titular-catedra/virgilio-almeida/projeto-ia-responsavel) da USP e no [Center for AI and Digital Policy](https://www.caidp.org/global-academic-network/ai-policy-clinic/), onde estudo frameworks de políticas de IA e proponho melhorias para documentos locais. [Saiba mais...](https://www.linkedin.com/in/linasdias/)
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam aliquam nunc et dolor consectetur, quis interdum quam ullamcorper. Mauris tempor dolor id odio tristique, et dignissim ante condimentum. Donec tristique velit vitae orci venenatis, vel malesuada magna consequat. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Suspendisse condimentum, turpis efficitur suscipit ullamcorper, purus ligula interdum metus, vitae eleifend eros ligula a eros. Proin varius placerat efficitur. Nullam auctor quam eu arcu scelerisque, a scelerisque turpis hendrerit.
 
-Fora do âmbito profissional, gosto de yoga, meditação, [gatos](https://instagram.com/sleepycatlua) e bebidas funcionais.
+Donec ut cursus lacus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras finibus, risus vitae ullamcorper rutrum, eros dui tincidunt lorem, at consectetur metus diam et ipsum. Aliquam erat volutpat. Fusce porta tortor non tempus ornare. Donec finibus ultricies imperdiet. Quisque a nunc sit amet ex feugiat bibendum. Donec fringilla, mauris in imperdiet efficitur, dui ipsum viverra est, et auctor urna nisl ac tortor. Nam fermentum tortor ut sodales vulputate. 

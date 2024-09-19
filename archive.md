@@ -1,5 +1,4 @@
 ---
 layout: archive
-title: Arquivo
-lang: pt
+title: Archive
 ---

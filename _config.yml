@@ -1,8 +1,8 @@
-title: Ana Carolina Dias # name of the site
-author: Ana Carolina Dias # name of site's author
-email: carolinadias4567@gmail.com # email of site's author
+title: Strawberry Blog # name of the site
+author: Strawberry Shortcake # name of site's author
+email: someone@something.com # email of site's author
 url: https://linasdias.github.io # root address of the site
-baseurl: "" # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
+baseurl: "/strawberry-blog" # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
 description: >- # description of the site (multiple lines allowed)
   
 permalink: /:slug.html
@@ -24,25 +24,3 @@ sass:
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
-  - jekyll-multiple-languages-plugin
-
-languages:
-  - pt
-  - en
-
-default_lang: pt
-
-exclude_from_localization:
-  - 'assets/'
-  - 'images/'
-
-defaults:
-  - scope:
-      path: ""
-    values:
-      lang: "pt"
-
-  - scope:
-      path: "en"
-    values:
-      lang: "en"

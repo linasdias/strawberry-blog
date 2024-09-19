@@ -3,28 +3,29 @@
 
 # Menu configuration file
 entries:
-  - title: sobre mim!
+  - title: about me!
     url: about
 
   - title: contato
-    url: "mailto:ana.carolina@lapin.org.br"
+    url: "mailto:someone@something.com"
 
   - title: newsletter ⋆౨ৎ˚⟡˖ ࣪
     url: feed.xml
       
-  - title: "artigos mais recentes!"
-    entries:
-      - title: "[LAPIN] resenha sobre unmasking ai (joy buolamwini)"
-        url: "https://lapin.org.br/2024/02/23/o-que-unmasking-ai-nos-ensina-sobre-nossa-reacao-a-sistemas-falhos-de-reconhecimento-facial/"
-      - title: "[LinkedIn] fib13 e gi no brasil em 2023"
-        url: "https://www.linkedin.com/pulse/experi%25C3%25AAncia-fib13-e-governan%25C3%25A7a-da-internet-brasil-em-2023-sousa-dias/?trackingId=pXg5GHD9RYmtcrue3d%2BrPg%3D%3D"
+  - title: all posts
+    post_list:
+      limit: 5
+      show_more: true
+      show_more_text: See archive...
+      show_more_url: archive.html
 
+  - title: posts by category
+    post_list:
+      category: example2
+      show_more: true
+      show_more_text: See more posts...
+      show_more_url: example2-archive.html
 
-  - title: idiomas
+  - title: PRO TIP
     entries:
-      - title: English
-        url: en
-#      - title: Français
-#        url: fr
-#      - title: Español
-#        url: es
+      - title: to edit this menu, edit _data/menu.yml file
